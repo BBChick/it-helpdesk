@@ -36,3 +36,11 @@
    ```bash
    cd server
    node server.js
+2. **Запуск админки/клиента**:
+   ```bash
+   npm install
+   npm run tauri dev
+🏗 Сборка в .exe
+Для создания установщика Windows:
+```bash
+   npm run tauri build
