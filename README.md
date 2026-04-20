@@ -1,12 +1,12 @@
 
-# ⚡ ZENOPS IT-Support System v2.8
+# ⚡ Techly - IT-Support System v0.1.0
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**ZENOPS** — это высокоскоростная система управления IT-инцидентами, разработанная для локальных сетей. Состоит из легковесного клиента на Tauri и футуристичной админ-панели. 
+**Techly** — это высокоскоростная система управления IT-инцидентами, разработанная для локальных сетей. Состоит из легковесного клиента на Tauri и футуристичной админ-панели. 
 
 > "Пока другие ищут номер сисадмина, наши пользователи уже видят человечка, который к ним бежит."
 
