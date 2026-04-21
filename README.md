@@ -74,5 +74,17 @@ cd techly_adm
 # Установите зависимости фронтенда
 pnpm install
 
+
+# Соберите .exe файл
+pnpm tauri build
+```
+Сборка Клиента:
+```bash
+# Перейдите в папку клиента
+cd techly_client
+
+# Установите зависимости
+pnpm install
+
 # Соберите .exe файл
 pnpm tauri build
