@@ -29,7 +29,7 @@
 
 | Админ-панель (Сервер) | Клиентское приложение |
 |-----------------------|-----------------------|
-| <img width="400" alt="Screen1" src="https://github.com/user-attachments/assets/b5147c17-be21-4bca-90e1-a176d7606f30" /> | <img width="200" alt="Screen1cl" src="https://github.com/user-attachments/assets/4ce5a845-aeb5-473f-a456-e8c4c238cf56" />  |
+| <img width="400" alt="Screen1" src="https://github.com/user-attachments/assets/a78ac031-119f-46c0-9e90-c04ebb03727a" /> | <img width="200" alt="Screen1cl" src="https://github.com/user-attachments/assets/9a2670e6-69d0-4f5d-9d83-0323ac21ceef" />  |
 
 ---
 
