@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="200" height="200" alt="Techly_Github" src="https://github.com/user-attachments/assets/818f9e0a-073f-45e3-9580-c2d7c7218914" />
+  <img width="300" height="300" alt="Techly_Github" src="https://github.com/user-attachments/assets/818f9e0a-073f-45e3-9580-c2d7c7218914" />
   <h1 align="center">Techly Local HelpDesk</h1>
   <p align="center">
     <strong>Молниеносная P2P система IT-поддержки для локальных сетей.</strong>
