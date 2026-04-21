@@ -29,7 +29,7 @@
 
 | Админ-панель (Сервер) | Клиентское приложение |
 |-----------------------|-----------------------|
-| <img src="https://via.placeholder.com/600x400/09090b/4f46e5?text=Techly+Admin+Dashboard" width="400"> | <img src="https://via.placeholder.com/300x400/09090b/4f46e5?text=Techly+Client+App" width="200"> |
+| <img width="400" alt="Screen1" src="https://github.com/user-attachments/assets/b5147c17-be21-4bca-90e1-a176d7606f30" /> | <img width="200" alt="Screen1cl" src="https://github.com/user-attachments/assets/4ce5a845-aeb5-473f-a456-e8c4c238cf56" />  |
 
 ---
 
