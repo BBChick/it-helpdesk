@@ -88,6 +88,7 @@ pnpm install
 
 # Соберите .exe файл
 pnpm tauri build
+```
 
 ---
 
@@ -96,4 +97,4 @@ pnpm tauri build
 <div align="center">
 <sub>Разработано с ❤️ для суровых системных администраторов.</sub>
 </div>
-```
+
