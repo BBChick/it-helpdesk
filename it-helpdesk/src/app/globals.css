@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+/* Вариант для темной темы в v4 */
+@custom-variant dark (&:is(.dark *));
+
+@layer base {
+
+  html,
+  body {
+    background: transparent !important;
+    background-color: transparent !important;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    height: 100vh;
+    width: 100vw;
+  }
+
+  /* Для Next.js */
+  #__next {
+    background: transparent !important;
+  }
+
+  * {
+    -webkit-user-drag: none;
+    user-select: none;
+    outline: none !important;
+  }
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+  width: 4px;
+}

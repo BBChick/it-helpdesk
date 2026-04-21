@@ -1,0 +1,14 @@
+# Зависимости
+node_modules/
+
+# Папки с результатами сборки Next.js
+.next/
+out/
+build/
+
+# Папки с мусором и тяжелыми бинарниками Rust
+src-tauri/target/
+
+# Локальные базы данных и логи
+history.json
+.local/
