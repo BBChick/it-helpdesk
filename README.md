@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tauri-apps/tauri/dev/app-icon.png" alt="Logo" width="80" height="80">
+  <img width="1157" height="1157" alt="Techly_Github" src="https://github.com/user-attachments/assets/818f9e0a-073f-45e3-9580-c2d7c7218914" />
   <h1 align="center">Techly Local HelpDesk</h1>
   <p align="center">
     <strong>Молниеносная P2P система IT-поддержки для локальных сетей.</strong>
