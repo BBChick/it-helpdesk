@@ -25,11 +25,10 @@
 Никакой сложной настройки IP-адресов. Клиенты автоматически находят сервер системного администратора в локальной сети (LAN) с помощью UDP-бродкастинга, а всё общение происходит в реальном времени через веб-сокеты. Построено на базе Tauri для минимального потребления ОЗУ и процессора.
 
 ### 📸 Скриншоты
-*(Заменить ссылки ниже на реальные скриншоты)*
 
 | Админ-панель (Сервер) | Клиентское приложение |
 |-----------------------|-----------------------|
-| <img width="400" alt="Screen1" src="https://github.com/user-attachments/assets/a78ac031-119f-46c0-9e90-c04ebb03727a" /> | <img width="200" alt="Screen1cl" src="https://github.com/user-attachments/assets/9a2670e6-69d0-4f5d-9d83-0323ac21ceef" />  |
+| <img width="400" alt="Screen1" src="https://github.com/user-attachments/assets/a78ac031-119f-46c0-9e90-c04ebb03727a" /> | <img width="200" alt="Screen1cl" src="https://github.com/user-attachments/assets/9a2670e6-69d0-4f5d-9d83-0323ac21ceef" />
 
 ---
 
